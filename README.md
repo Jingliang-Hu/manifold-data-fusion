@@ -1,6 +1,5 @@
-# manifold data fusion
+# Manifold data fusion
 ![Classification maps](https://github.com/Jingliang-Hu/manifold-data-fusion/blob/main/pic/berlin_classification_map.JPG)
-
 
 ## Introduction
 This repo publishes codes implemented for the following two papers.
