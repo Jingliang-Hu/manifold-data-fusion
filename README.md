@@ -6,7 +6,10 @@ This repo publishes codes implemented for the following two papers.
 > Jingliang Hu, Danfeng Hong, Yuanyuan Wang, Xiao Zhu (2019). A Comparative Review of Manifold Learning Techniques for Hyperspectral and Polarimetric SAR Image Fusion. Remote Sensing, 11(6), pp. 681.[paper](https://www.mdpi.com/2072-4292/11/6/681)
 > 
 > Jingliang Hu, Danfeng Hong, Xiao Xiang Zhu (2019). MIMA: MAPPER-Induced Manifold Alignment for Semi-Supervised Fusion of Optical Image and Polarimetric SAR Data. IEEE Transactions on Geoscience and Remote Sensing, 57(11), pp. 9025–9040.[paper](https://ieeexplore.ieee.org/abstract/document/8802291)
+
+
 If you think the papers and codes are helpful, please cite them.
+
 ```
 @article{hu2019comparative,
   title={A comparative review of manifold learning techniques for hyperspectral and polarimetric sar image fusion},
