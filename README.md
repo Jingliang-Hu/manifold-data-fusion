@@ -10,7 +10,7 @@ This repo publishes codes implemented for the following two papers.
 The 16 scripts are the algorithms compared in the first paper. The algorithm 13 is the one introduced in the second paper, and 14 to 16 are variants of 13.
 
 ## Data
-Please download examplary data from [here]() and place the "data" directory at the same level of "mani" and other scripts.
+Please download examplary data from [here]() and place the "data" directory at the same level of "mani".
 
 The referred data is the Berlin land cover land use data set used in these two papers, including an hyperspectral image and a Sentinel-1 dual-Pol data.
 
