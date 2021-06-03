@@ -40,7 +40,8 @@ and,
 The 16 scripts are the algorithms compared in the first paper. The algorithm 13 is the one introduced in the second paper, and 14 to 16 are variants of 13.
 
 ## Data
-Please download examplary data here: ftp://ftp.lrz.de/transfer/temporary_data_storage/
+Please download examplary data here: 
+> ftp://ftp.lrz.de/transfer/temporary_data_storage/
 
 Place the "data" directory at the same level of "mani".
 
