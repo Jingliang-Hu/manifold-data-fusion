@@ -1,5 +1,5 @@
 # manifold data fusion
-![Classification maps](.pit/berlin_classification_map.JPG)
+![Classification maps](https://github.com/Jingliang-Hu/manifold-data-fusion/blob/main/pic/berlin_classification_map.JPG)
 
 
 ## Introduction
